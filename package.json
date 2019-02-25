@@ -1,0 +1,13 @@
+{
+  "name": "css_animation_text",
+  "version": "1.0.0",
+  "description": "animation text with css",
+  "main": "index.js",
+  "homepage": "https:/salah7eddine.github.io/css_animation_text",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages "
+  },
+  "author": "AS7E",
+  "license": "MIT"
+}
